@@ -1,10 +1,10 @@
 [
   {
-    "package": "JuliaCall",
+    "package": "convexjlr",
     "oncran": true
   },
   {
-    "package": "convexjlr",
+    "package": "JuliaCall",
     "oncran": true
   }
 ]
