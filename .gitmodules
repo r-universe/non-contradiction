@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "convexjlr"]
-	path = convexjlr
-	url = https://github.com/non-contradiction/convexjlr
-	shallow = true
-	registered = true
 [submodule "JuliaCall"]
 	path = JuliaCall
 	url = https://github.com/non-contradiction/juliacall
+	shallow = true
+	registered = true
+[submodule "convexjlr"]
+	path = convexjlr
+	url = https://github.com/non-contradiction/convexjlr
 	shallow = true
 	registered = true
