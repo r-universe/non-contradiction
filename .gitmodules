@@ -5,6 +5,3 @@
 [submodule "JuliaCall"]
 	path = JuliaCall
 	url = https://github.com/non-contradiction/juliacall
-[submodule "convexjlr"]
-	path = convexjlr
-	url = https://github.com/non-contradiction/convexjlr
